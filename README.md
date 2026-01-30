@@ -16,7 +16,7 @@ It uses computer vision to detect hand movements and gestures, allowing users to
 
 ---
 
-## 🚀 Key Features
+## 🚀 Key Featuress
 
 - ✋ Real-time hand tracking using MediaPipe  
 - 🧊 Gesture-based block control:
